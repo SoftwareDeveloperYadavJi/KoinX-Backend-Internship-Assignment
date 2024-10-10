@@ -73,7 +73,12 @@ curl --request GET \
 
 ## Testing Links
 - http://13.201.228.77:3000/deviation?coin=bitcoin
+- http://13.201.228.77:3000/deviation?coin=matic-network
+- http://13.201.228.77:3000/deviation?coin=ethereum
 - http://13.201.228.77:3000/stats?coin=bitcoin
+- http://13.201.228.77:3000/stats?coin=matic-network
+- http://13.201.228.77:3000/stats?coin=ethereum
+
 
 - You can chage the name of the coine in the above links { `bitcoin`,`matic-network`,`ethereum` }
 
