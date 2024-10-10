@@ -70,9 +70,12 @@ curl --request GET \
   --url http://localhost:3000/deviation?coin=bitcoin
 ```
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+## Testing Links
+- http://13.201.228.77:3000/deviation?coin=bitcoin
+- http://13.201.228.77:3000/stats?coin=bitcoin
+
+- You can chage the name of the coine in the above links { `bitcoin`,`matic-network`,`ethereum` }
 
 ## License
 
